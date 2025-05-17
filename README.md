@@ -21,9 +21,9 @@ Inactivity Protection: Stakes inactive for 2 years can be forfeit
 
 Simple Way to teach how the stake works
 ---------------------
-stake(amount): Burn tokens and start earning rewards
-addStake(amount): Add more tokens to existing stake
-claimRewards(): Mint and collect earned rewards
+stake(amount): Burn tokens and start earning rewards,
+addStake(amount): Add more tokens to existing stake,
+claimRewards(): Mint and collect earned rewards,
 
 Info Functions
 ---------------------
